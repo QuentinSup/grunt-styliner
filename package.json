@@ -1,0 +1,23 @@
+{
+  "name": "grunt-styliner",
+  "description": "Style inliner Grunt Task",
+  "version": "0.0.1",
+  "author": {
+    "name": "QuentinSup",
+    "url": "https://github.com/QuentinSup/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuentinSup/grunt-styliner.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "winston": "~2.3.1",
+    "styliner": "~1.0.3"
+  },
+  "files": [
+    "tasks"
+  ],
+  "directories": {}
+}
