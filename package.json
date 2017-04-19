@@ -1,7 +1,7 @@
 {
   "name": "grunt-styliner",
   "description": "Style inliner Grunt Task",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "QuentinSup",
     "url": "https://github.com/QuentinSup/"
